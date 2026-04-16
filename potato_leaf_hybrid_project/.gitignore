@@ -1,0 +1,10 @@
+.venv/
+.venvs/
+__pycache__/
+*.pyc
+.tmp/
+.vendor/
+outputs/
+*.log
+*_stdout
+*_stderr
